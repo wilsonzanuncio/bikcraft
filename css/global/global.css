@@ -1,6 +1,5 @@
 body {
   margin: 0px;
-  padding-bottom: 600px;
   color: #111111;
 }
 
@@ -9,7 +8,8 @@ h2,
 h3,
 h4,
 ul,
-p {
+p,
+blockquote {
   margin: 0;
 }
 
