@@ -9,7 +9,9 @@ h3,
 h4,
 ul,
 p,
-blockquote {
+blockquote,
+dt,
+dd {
   margin: 0;
 }
 
